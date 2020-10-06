@@ -1,0 +1,8 @@
+Registered user with bonus under limit, 100060, true, 30
+Fail-test Registered user with bonus under limit, 100060, true, 500
+Registered user with bonus over limit, 100000060, true, 500
+Fail-test Registered user with bonus over limit, 100000060, true, 550
+Not registered user with bonus under limit, 100060, false, 10
+Fail-test Not registered user with bonus under limit, 100060, false, 50
+Not registered user with bonus over limit, 100000060, false, 500
+Fail-test Not registered user with bonus over limit, 100000060, false, 10
